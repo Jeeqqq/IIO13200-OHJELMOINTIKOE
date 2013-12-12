@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Harjoitukset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Harjoitus>
+    <Nimi>Musti</Nimi>
+    <Kilometrit>12</Kilometrit>
+    <Pvm>2013-12-19</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Musti</Nimi>
+    <Kilometrit>1000</Kilometrit>
+    <Pvm>2013-12-17</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Musti</Nimi>
+    <Kilometrit>23</Kilometrit>
+    <Pvm>2013-12-09</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Ville</Nimi>
+    <Kilometrit>333</Kilometrit>
+    <Pvm>2013-12-10</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Ville</Nimi>
+    <Kilometrit>12</Kilometrit>
+    <Pvm>2013-12-28</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Ville</Nimi>
+    <Kilometrit>233</Kilometrit>
+    <Pvm>2013-12-01</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Ville</Nimi>
+    <Kilometrit>233</Kilometrit>
+    <Pvm>2014-01-09</Pvm>
+  </Harjoitus>
+  <Harjoitus>
+    <Nimi>Ville</Nimi>
+    <Kilometrit>12.77</Kilometrit>
+    <Pvm>2013-12-11</Pvm>
+  </Harjoitus>
+</Harjoitukset>

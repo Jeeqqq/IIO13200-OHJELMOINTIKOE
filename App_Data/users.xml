@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Musti</Name>
+    <UserName>rHCi6eAc8Ndc0OhvfMxn3g==</UserName>
+    <Password>OctYO+lNMfoocJfvaG5hlA==</Password>
+  </User>
+  <User>
+    <Name>Tero</Name>
+    <UserName>biJ9YyWqcI2doMHllXToMw==</UserName>
+    <Password>s4jg19fo6U0IjlwnTXkX7A==</Password>
+  </User>
+  <User>
+    <Name>Iivo</Name>
+    <UserName>m+hpYHEefK00GoMMz4KzlQ==</UserName>
+    <Password>fH4Mc4x/nKXmTmA7O6nEdA==</Password>
+  </User>
+  <User>
+    <Name>Ville</Name>
+    <UserName>BhgVhr440jiSeYI6sjy5mw==</UserName>
+    <Password>lkgnUtYwJikdHNVRR1RBSw==</Password>
+  </User>
+</Users>
